@@ -2,6 +2,11 @@
 #include <cmath>
 #include <vector>
 using namespace std;
+
+// 1) кое-где съехало форматирование
+// 2) можно было бы написать while (n > 0) и убрать push_back(1)
+// 3) внесите, пожалуйста, имя/фамилию в профиль на github
+
 int main ()
 {
     int n;
